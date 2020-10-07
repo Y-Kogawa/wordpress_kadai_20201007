@@ -1,0 +1,26 @@
+＜課題＞
+コーディング済みのサイトをWordPressに組み込む（WPのテーマを作る）
+
+■ 提出方法
+
+
+■ 組み込む対象のウェブサイト
+同梱の「tp_biz54_orange02.zip」を使用する
+
+■ WordPressに組み込む箇所
+1. index.html
+2. company.html
+3. service.html
+4. service2.html
+
+■ 動的に管理する箇所（WordPressで管理する箇所）
+1. index.html（トップページ）
+    1. Pickup News
+    2. 更新情報・お知らせ
+    3. 「テンプレートのご利用前に必ずお読み下さい」以下の本文部分
+2. company.html（Company）
+    1. 見出し、本文
+3. service.html（サービスメニュー）
+    1. サービスの一覧部分
+4. service2.html（サービス内容詳細）
+    1. 見出し、本文
